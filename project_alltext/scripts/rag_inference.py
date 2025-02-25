@@ -2,89 +2,77 @@
 """
 rag_inference.py
 ----------------
-A modular script demonstrating an end-to-end Retrieval-Augmented Generation (RAG) flow:
-  1. Load a text embedding model (SentenceTransformers).
-  2. Prompt the user for a query (or accept it as a function argument).
-  3. Embed the query, then retrieve top-K similar chunks from Neo4j.
-  4. Concatenate those chunks into a prompt.
-  5. Invoke a large language model (deepseek-r1:14b or another LLM) to generate a final answer.
+A Retrieval-Augmented Generation (RAG) script that:
+  1. Prompts the user for a query.
+  2. Embeds the query with a 384-dim model ("all-MiniLM-L6-v2").
+  3. Retrieves top-K similar chunks from Neo4j.
+  4. Calls Ollama to run the "deepseek-r1:14b" model,
+     passing the final prompt as positional arguments (instead of -m).
 
 Prerequisites:
-  - The chunked data has already been ingested and embedded (embedding_generation.py).
-  - The chunk nodes and embeddings have been stored in Neo4j (store_in_neo4j.py).
-  - Relationship scripts (compute_relationships.py) are optional but can enhance the knowledge graph.
-  - The 'deepseek-r1:14b' model is locally available and can be loaded via Hugging Face or another interface.
-  - The user has installed 'transformers' (pip install transformers) or an alternative library that can load the LLM.
-
-Usage:
-  python rag_inference.py
+  - Ollama is installed and the model "deepseek-r1:14b" is available.
+  - You can run:   ollama run deepseek-r1:14b "Hello"   without errors.
 """
 
 import os
+import subprocess
 import numpy as np
 from neo4j import GraphDatabase, exceptions
 from sentence_transformers import SentenceTransformer
-from transformers import AutoTokenizer, AutoModelForCausalLM  # or the relevant loader for deepseek-r1:14b
 
 #############################################
-#          CONFIGURATION SECTION            #
+#     NEO4J CONFIG & GLOBAL SETTINGS        #
 #############################################
-
-# Neo4j connection settings
-NEO4J_URI = "bolt://localhost:7687"
+NEO4J_URI  = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASS = "Neo4j420"
-
-# LLM settings: adjust model_name to your local or HF-hub reference for deepseek-r1:14b
-LLM_MODEL_NAME = "deepseek-r1:14b"  
-# e.g. "path/to/deepseek-r1-14b", or a Hugging Face model ID if it’s published.
-
-# Text embedding model used for both chunks and query
-EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
-
-# Number of chunks to retrieve from the knowledge graph
-TOP_K = 5
+NEO4J_PASS = "Neo4j420"  # your password
+TOP_K      = 5           # how many chunks to retrieve
+OLLAMA_MODEL = "deepseek-r1:14b"  # the local Ollama model name
 
 #############################################
-#            HELPER FUNCTIONS               #
+#     EMBEDDING & SIMILARITY FUNCTIONS      #
 #############################################
 
-def load_text_model(model_name: str = EMBEDDING_MODEL_NAME):
+def load_text_model(model_name: str = "all-MiniLM-L6-v2") -> SentenceTransformer:
     """
-    Loads the SentenceTransformers model used to embed text. This must match the model
-    used to generate embeddings for your chunks, so the vector spaces align.
+    Loads a SentenceTransformers model that produces 384-d embeddings.
     """
     print(f"[INFO] Loading text embedding model '{model_name}'...")
     model = SentenceTransformer(model_name)
-    print("[INFO] Embedding model loaded.")
+    print("[INFO] Model loaded successfully.")
     return model
 
-def embed_query(query: str, model):
+def embed_query(query: str, model: SentenceTransformer) -> np.ndarray:
     """
-    Embeds the user query using the SentenceTransformers model.
-    Returns a NumPy array representing the query embedding.
+    Embeds the user query using the loaded model (384-d).
     """
-    embedding_vector = model.encode(query, convert_to_numpy=True)
-    return embedding_vector
+    print("[INFO] Embedding user query...")
+    query_embedding = model.encode(query, convert_to_numpy=True)
+    print(f"[INFO] Query embedding shape: {query_embedding.shape}")
+    return query_embedding
 
-def cosine_similarity(vec1, vec2):
+def cosine_similarity(vec1, vec2) -> float:
     """
-    Computes the cosine similarity between two vectors (lists or np.ndarrays).
+    Computes cosine similarity between two numeric vectors.
     """
     v1 = np.array(vec1, dtype=float)
     v2 = np.array(vec2, dtype=float)
-    dot = np.dot(v1, v2)
+    dot_val = np.dot(v1, v2)
     norm1 = np.linalg.norm(v1)
     norm2 = np.linalg.norm(v2)
     if norm1 == 0 or norm2 == 0:
         return 0.0
-    return dot / (norm1 * norm2)
+    return dot_val / (norm1 * norm2)
 
-def retrieve_chunks_from_neo4j(driver):
+#############################################
+#        NEO4J CHUNK RETRIEVAL             #
+#############################################
+
+def retrieve_chunks_from_neo4j():
     """
-    Retrieves all :Chunk nodes from Neo4j, including their embeddings.
-    Returns a list of dicts with keys: chunk_id, content, embedding, modality.
+    Connects to Neo4j, retrieves all chunk nodes + embeddings, returns list of dicts.
     """
+    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASS))
     query = """
     MATCH (ch:Chunk)
     RETURN ch.chunk_id AS chunk_id,
@@ -93,149 +81,130 @@ def retrieve_chunks_from_neo4j(driver):
            ch.modality AS modality
     """
     chunks = []
-    with driver.session() as session:
-        results = session.run(query)
-        for record in results:
-            chunk = {
-                "chunk_id": record["chunk_id"],
-                "content": record["content"],
-                "embedding": record["embedding"],
-                "modality": record["modality"]
-            }
-            chunks.append(chunk)
+    try:
+        with driver.session() as session:
+            results = session.run(query)
+            for record in results:
+                chunk = {
+                    "chunk_id": record["chunk_id"],
+                    "content" : record["content"],
+                    "embedding": record["embedding"],
+                    "modality": record["modality"]
+                }
+                chunks.append(chunk)
+        print(f"[INFO] Retrieved {len(chunks)} chunks from Neo4j.")
+    except exceptions.AuthError as e:
+        print(f"[ERROR] Neo4j auth error: {e}")
+    except exceptions.ServiceUnavailable as e:
+        print(f"[ERROR] Neo4j service unavailable: {e}")
+    except Exception as e:
+        print(f"[ERROR] Unexpected error: {e}")
+    finally:
+        driver.close()
     return chunks
 
-def find_top_k_chunks(query_embedding, chunks, top_k=TOP_K):
+def find_top_k_chunks(query_embedding: np.ndarray, chunks: list, top_k: int = TOP_K):
     """
-    Computes similarity between the query embedding and each chunk's embedding,
-    then returns the top-K chunks sorted by descending similarity.
+    Computes cosine similarity between query_embedding and each chunk's embedding,
+    returns the top-K in descending order of similarity.
     """
     similarities = []
     for c in chunks:
         emb = c.get("embedding", [])
         if not emb:
             continue
-        sim = cosine_similarity(query_embedding, emb)
-        similarities.append((c, sim))
-    # Sort by similarity descending
+        sim_val = cosine_similarity(query_embedding, emb)
+        similarities.append((c, sim_val))
+
+    # Sort by similarity desc
     similarities.sort(key=lambda x: x[1], reverse=True)
     return similarities[:top_k]
 
-def load_llm(model_name: str = LLM_MODEL_NAME):
-    """
-    Loads the large language model (deepseek-r1:14b or similar) using Hugging Face Transformers.
-    Adjust the code if you have a different local loading mechanism (e.g., Olla CLI).
-    """
-    print(f"[INFO] Loading LLM: '{model_name}'...")
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForCausalLM.from_pretrained(model_name, device_map="auto") 
-    # device_map="auto" tries to place the model on GPU if available, CPU otherwise.
-    print("[INFO] LLM loaded successfully.")
-    return tokenizer, model
+#############################################
+#     OLLAMA INTEGRATION                    #
+#############################################
 
-def generate_answer(query: str, top_chunks: list, tokenizer, model):
+def ollama_generate(prompt: str, model_name: str = OLLAMA_MODEL) -> str:
     """
-    Given a user query and a list of top chunks, constructs a prompt and generates an answer
-    using the loaded LLM. This function can be adapted to your specific prompt engineering strategy.
+    Calls the Ollama CLI in a way that doesn't use the '-m' shorthand flag.
+    Syntax: ollama run deepseek-r1:14b "some prompt text"
 
-    :param query: The user question (string).
-    :param top_chunks: List of (chunk_dict, similarity_score) tuples.
-    :param tokenizer: The tokenizer for the LLM.
-    :param model: The loaded LLM model.
-    :return: The model-generated answer (string).
+    Args:
+      prompt (str): the text to feed to the model
+      model_name (str): the local name for the model in Ollama
+    Returns:
+      str: the model's text response or an error
     """
-    # Construct a "context" string from the top chunks.
+    print(f"[INFO] Calling ollama with model '{model_name}'...")
+
+    # We'll pass the model name as a positional argument, then the prompt as another argument.
+    # e.g. ollama run deepseek-r1:14b "Hello"
+    try:
+        result = subprocess.run(
+            ["ollama", "run", model_name, prompt],
+            text=True,
+            capture_output=True
+        )
+        if result.returncode != 0:
+            print(f"[ERROR] Ollama returned a non-zero exit code: {result.returncode}")
+            print(f"[ERROR] stderr: {result.stderr}")
+            return "Error generating response from Ollama."
+        return result.stdout.strip()
+    except FileNotFoundError:
+        return "[ERROR] 'ollama' CLI not found. Please ensure Ollama is installed and on PATH."
+    except Exception as e:
+        return f"[ERROR] Unexpected error calling ollama: {e}"
+
+def generate_answer_ollama(query: str, top_chunks: list) -> str:
+    """
+    Builds a prompt from top chunks, calls ollama_generate, returns the text answer.
+    """
     context_texts = []
     for i, (chunk, score) in enumerate(top_chunks, start=1):
-        # Add chunk content with a short label or marker
         context_texts.append(f"--- Chunk {i} (similarity={score:.4f}) ---\n{chunk['content']}\n")
-
-    # Combine all chunk texts into a single context block.
     combined_context = "\n".join(context_texts)
 
-    # Example Prompt (very simplistic). Adjust as needed:
-    prompt = f"""You are a helpful AI assistant. You have access to the following context:
+    prompt_text = f"""You are a helpful AI assistant. Below is relevant context, followed by a user query:
 
+Context:
 {combined_context}
 
 User Query: {query}
 
-Please provide the best possible answer using the above context. If the context doesn't contain an answer, say so.
+Answer:
 """
-
-    # Tokenize the prompt for the LLM
-    inputs = tokenizer(prompt, return_tensors="pt").to(model.device)
-    # Generate output
-    output_tokens = model.generate(
-        **inputs,
-        max_new_tokens=256,
-        temperature=0.7,
-        do_sample=True,
-        top_p=0.9
-    )
-    # Decode the tokens to get the answer text
-    answer = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
-
-    return answer
+    return ollama_generate(prompt_text)
 
 #############################################
-#               MAIN SCRIPT                #
+#                 MAIN                      #
 #############################################
 
 def main():
-    """
-    Orchestrates the full RAG query flow:
-      1) Prompt user for a query.
-      2) Embed the query with SentenceTransformers.
-      3) Retrieve top-K relevant chunks from Neo4j.
-      4) Load the deepseek-r1:14b (or other) LLM locally.
-      5) Construct a prompt using the top chunks as context.
-      6) Generate and display the final answer.
-    """
-    # 1) Prompt for user query
     user_query = input("Enter your query: ").strip()
     if not user_query:
-        print("No query provided. Exiting.")
+        print("[INFO] No query provided. Exiting.")
         return
 
-    # 2) Load embedding model & embed the query
-    embedding_model = load_text_model()
+    # 1) Load the SentenceTransformers model for a 384-d embedding
+    embedding_model = load_text_model("all-MiniLM-L6-v2")
+    # 2) Embed the query
     query_emb = embed_query(user_query, embedding_model)
-
-    # 3) Connect to Neo4j & retrieve chunks
-    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASS))
-    try:
-        chunks = retrieve_chunks_from_neo4j(driver)
-        print(f"[INFO] Retrieved {len(chunks)} chunks from Neo4j.")
-    except exceptions.AuthError as auth_err:
-        print(f"[ERROR] Neo4j authentication failed: {auth_err}")
+    # 3) Retrieve chunks from Neo4j
+    chunks = retrieve_chunks_from_neo4j()
+    if not chunks:
+        print("[ERROR] No chunks found. Exiting.")
         return
-    except exceptions.ServiceUnavailable as svc_err:
-        print(f"[ERROR] Neo4j service unavailable: {svc_err}")
-        return
-    except Exception as e:
-        print(f"[ERROR] Unexpected error retrieving chunks: {e}")
-        return
-    finally:
-        # Close the driver to free resources
-        driver.close()
-
-    # 4) Find top-K chunks by similarity
+    # 4) Find top-K chunk matches
     top_results = find_top_k_chunks(query_emb, chunks, TOP_K)
     if not top_results:
-        print("No chunks found or no embeddings available.")
+        print("[INFO] No similar chunks found. Exiting.")
         return
-
-    # 5) Load the LLM (deepseek-r1:14b or your chosen model)
-    tokenizer, llm_model = load_llm(LLM_MODEL_NAME)
-
-    # 6) Generate an answer by combining user query + top chunk context
-    answer = generate_answer(user_query, top_results, tokenizer, llm_model)
-
-    # 7) Print the final answer
-    print("\n==================== RAG Answer ====================")
+    # 5) Generate an answer using Ollama
+    answer = generate_answer_ollama(user_query, top_results)
+    # 6) Print the final answer
+    print("\n==================== RAG Answer (Ollama) ====================")
     print(answer)
-    print("====================================================")
+    print("=============================================================")
 
 if __name__ == "__main__":
     main()

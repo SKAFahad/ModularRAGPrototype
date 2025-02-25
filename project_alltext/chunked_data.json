@@ -1,0 +1,3230 @@
+[
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_0",
+    "modality": "text",
+    "content": "1. Overall Month Summary",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 0
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_1",
+    "modality": "text",
+    "content": "1.\tTotal Revenue Range",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 1
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_2",
+    "modality": "text",
+    "content": "o\tOver the 31-day interval, Total Revenue fluctuated between roughly 7.7 million at its lowest (on June 22) and a peak above 11.3 million (on June 3).",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 2
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_3",
+    "modality": "text",
+    "content": "o\tThe sharpest surges occurred in early June, followed by mid-June variability and a slight downturn toward the final week.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 3
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_4",
+    "modality": "text",
+    "content": "2.\tTeam Contributions",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 4
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_5",
+    "modality": "text",
+    "content": "o\tTeam A (Faria) and Team B (Mustafiz) consistently command the highest revenue shares, each often surpassing 2 million per day. On some days, Team A or Team B alone can exceed 3 or even 4 million, strongly influencing the daily total.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 5
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_6",
+    "modality": "text",
+    "content": "o\tPerishable (Rashed) typically falls in the 2\u20133 million bracket, offering solid but less volatile contributions.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 6
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_7",
+    "modality": "text",
+    "content": "o\tTeam C (Mehboob) remains the smallest driver, generally in the 600k\u2013900k range, though still sensitive to day-to-day fluctuations.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 7
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_9",
+    "modality": "text",
+    "content": "2. Week-by-Week and Daily Ups/Downs",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 9
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_10",
+    "modality": "text",
+    "content": "A. Week 1: May 28 \u2013 June 3",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 10
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_11",
+    "modality": "text",
+    "content": "\u2022\tMay 28 (Start):",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 11
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_12",
+    "modality": "text",
+    "content": "o\tTotal Revenue sits at 8.99 million, an already robust figure. Team A logs about 3.11 million, Team B around 2.69 million, and Perishable stands at 2.29 million.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 12
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_13",
+    "modality": "text",
+    "content": "o\tTeam C (761k) remains comparatively modest.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 13
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_14",
+    "modality": "text",
+    "content": "\u2022\tMay 29\u201330:",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 14
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_15",
+    "modality": "text",
+    "content": "o\tMinor dips for Team A: from 3.11 million down to ~2.97 million by May 30. Team B declines slightly as well.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 15
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_16",
+    "modality": "text",
+    "content": "o\tPerishable hovers around 2.14\u20132.22 million, keeping the daily total near the 8.3\u20138.4 million mark.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 16
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_17",
+    "modality": "text",
+    "content": "\u2022\tMay 31 \u2013 June 1:",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 17
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_18",
+    "modality": "text",
+    "content": "o\tTotal Revenue rebounds above 8.75 million on May 31 and climbs to 9.77 million on June 1.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 18
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_19",
+    "modality": "text",
+    "content": "o\tTeam A edges up from 3.20 million to",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 19
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_20",
+    "modality": "text",
+    "content": "Comprehensive Sales and Team Performance Report",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 20
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_21",
+    "modality": "text",
+    "content": "(Covering 2022 05 28 to 2022 06 27)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 21
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_22",
+    "modality": "text",
+    "content": "Below is a detailed narrative of daily revenue swings, team-specific rises and dips, and overall performance patterns across the month-long period. The data includes four teams\u2014Team A (Faria), Team B (Mustafiz), Team C (Mehboob), and Perishable (Rashed)\u2014plus a Total Revenue column.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 22
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_24",
+    "modality": "text",
+    "content": "1. Overall Month Summary",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 24
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_25",
+    "modality": "text",
+    "content": "1.\tTotal Revenue Range",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 25
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_26",
+    "modality": "text",
+    "content": "o\tOver this 31-day interval, Total Revenue fluctuates between roughly 7.7 million (on June 22, its lowest) and above 11.3 million (on June 3, its highest).",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 26
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_27",
+    "modality": "text",
+    "content": "o\tThe sharpest surge occurs in the first week of June, after which mid-June shows moderate ups and downs, leading to a slight dip in the final week.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 27
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_28",
+    "modality": "text",
+    "content": "2.\tTeam Contributions",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 28
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_29",
+    "modality": "text",
+    "content": "o\tTeam A (Faria) and Team B (Mustafiz) consistently command the highest revenue shares, each often 2+ million daily. On certain days, either team can surpass 3 or even 4 million, heavily influencing total daily revenue.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 29
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_30",
+    "modality": "text",
+    "content": "o\tPerishable (Rashed) usually lands in the 2\u20133 million range, contributing notably but with fewer dramatic swings than Teams A/B.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 30
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_31",
+    "modality": "text",
+    "content": "o\tTeam C (Mehboob) remains the smallest contributor, typically 600k\u2013900k a day, but still fluctuates along with overall trends.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 31
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_33",
+    "modality": "text",
+    "content": "2. Week-by-Week & Daily Ups/Downs",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 33
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_34",
+    "modality": "text",
+    "content": "Week 1: May 28 \u2013 June 3",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 34
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_35",
+    "modality": "text",
+    "content": "1.\tMay 28 (Start Point)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 35
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_36",
+    "modality": "text",
+    "content": "o\tTotal Revenue: 8.99 million",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 36
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_37",
+    "modality": "text",
+    "content": "o\tTeam A: 3.11M, Team B: 2.69M, Team C: 0.76M, Perishable: 2.30M",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 37
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_38",
+    "modality": "text",
+    "content": "o\tKey Observation: A strong baseline day; Teams A and B already near the 3M mark, buoying the total close to 9M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 38
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_39",
+    "modality": "text",
+    "content": "2.\tMay 29\u201330",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 39
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_40",
+    "modality": "text",
+    "content": "o\tSlight Dip Overall: Total drops to ~8.38M by May 29 and 8.48M by May 30.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 40
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_41",
+    "modality": "text",
+    "content": "o\tTeam A slides a bit from 3.11M to around 2.92\u20132.97M; Team B dips to ~2.38\u20132.52M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 41
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_42",
+    "modality": "text",
+    "content": "o\tMain Driver: Perishable hovers ~2.14\u20132.22M, keeping the daily totals from falling too far.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 42
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_43",
+    "modality": "text",
+    "content": "3.\tMay 31 \u2013 June 1",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 43
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_44",
+    "modality": "text",
+    "content": "o\tMay 31: A modest rebound to 8.75M total; Team A up to 3.21M, Team B near 2.53M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 44
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_45",
+    "modality": "text",
+    "content": "o\tJune 1: Total spikes at 9.77M. Notably, Team A surpasses 3.6M, and Team B crosses 2.82M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 45
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_46",
+    "modality": "text",
+    "content": "o\tSurge Factor: Both Team C and Perishable inch up, too\u2014Team C around 0.83M, Perishable near 2.39M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 46
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_47",
+    "modality": "text",
+    "content": "4.\tJune 2 \u2013 June 3 (Major Peaks)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 47
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_48",
+    "modality": "text",
+    "content": "o\tJune 2: Total hits 9.66M. Team A stays above 3.47M; Team B near 2.77M; Perishable ~2.47M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 48
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_49",
+    "modality": "text",
+    "content": "o\tJune 3 (Highest Day): Reaches 11.39 million overall.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 49
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_50",
+    "modality": "text",
+    "content": "\uf0a7\tTeam A: ~3.79M",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 50
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_51",
+    "modality": "text",
+    "content": "\uf0a7\tTeam B: ~3.45M",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 51
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_52",
+    "modality": "text",
+    "content": "\uf0a7\tPerishable: ~3.09M",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 52
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_53",
+    "modality": "text",
+    "content": "\uf0a7\tTeam C: ~0.92M",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 53
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_54",
+    "modality": "text",
+    "content": "o\tHighlight: This is the largest daily revenue in the entire dataset, marking a sharp collective rise across all teams.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 54
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_56",
+    "modality": "text",
+    "content": "Week 2: June 4 \u2013 June 10",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 56
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_57",
+    "modality": "text",
+    "content": "1.\tJune 4\u20135",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 57
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_58",
+    "modality": "text",
+    "content": "o\tJune 4: Total remains high at 9.75M, supported by 3.25M from Team A, ~2.98M from Team B, and ~2.41M from Perishable.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 58
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_59",
+    "modality": "text",
+    "content": "o\tJune 5: A slight dip to 8.40M, partly because Team A slides below 2.88M. Team B also dips to ~2.46M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 59
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_60",
+    "modality": "text",
+    "content": "2.\tJune 6\u20137",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 60
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_61",
+    "modality": "text",
+    "content": "o\tJune 6: Total rebounds above 9.47M. Team A crosses 3.32M, Team B near 2.75M, with Team C steady at ~0.70M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 61
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_62",
+    "modality": "text",
+    "content": "o\tJune 7: Another uptick to 9.37M (Team A ~3.25M, Team B ~2.61M), showing a mild day-to-day fluctuation but still maintaining a high level.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 62
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_63",
+    "modality": "text",
+    "content": "3.\tJune 8\u20139",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 63
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_64",
+    "modality": "text",
+    "content": "o\tJune 8: 8.76M in total, with minor dips in Team A and Team B, though Perishable remains above 2.26M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 64
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_65",
+    "modality": "text",
+    "content": "o\tJune 9: Jumps to 8.61M. Team B hovers around 2.36M, while Team A dips slightly to ~2.99M. However, Perishable spikes to around 2.48M, offsetting the small drops from others.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 65
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_66",
+    "modality": "text",
+    "content": "4.\tJune 10 (Another Peak)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 66
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_67",
+    "modality": "text",
+    "content": "o\tTotal Revenue soars to 10.88M, the second-highest day in this dataset.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 67
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_68",
+    "modality": "text",
+    "content": "o\tTeam A crosses 4.05M, while Team B jumps to 3.13M. Perishable sees a sizeable jump to ~2.82M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 68
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_69",
+    "modality": "text",
+    "content": "o\tKey Driver: Nearly all teams exhibit daily highs, echoing the synergy seen on June 3.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 69
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_71",
+    "modality": "text",
+    "content": "Week 3: June 11 \u2013 June 17",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 71
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_72",
+    "modality": "text",
+    "content": "1.\tJune 11\u201312",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 72
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_73",
+    "modality": "text",
+    "content": "o\tJune 11: Total at ~9.42M, led by a strong 3.46M from Team A and 2.78M from Team B.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 73
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_74",
+    "modality": "text",
+    "content": "o\tJune 12: Slight drop to 8.12M, as Team A dips below 3.06M and Team B near 2.27M. Perishable also retreats to ~2.10M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 74
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_75",
+    "modality": "text",
+    "content": "2.\tJune 13\u201314",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 75
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_76",
+    "modality": "text",
+    "content": "o\tJune 13: 8.05M total; Team A ~2.88M, Team B ~2.35M, with consistent Perishable revenue near 2.04M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 76
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_77",
+    "modality": "text",
+    "content": "o\tJune 14: A mild rise to 8.15M, driven by Team A at ~2.97M and B at ~2.26M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 77
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_78",
+    "modality": "text",
+    "content": "o\tNote: These mid-range daily totals reflect neither extreme highs nor deep lows; stable day-to-day transitions.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 78
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_79",
+    "modality": "text",
+    "content": "3.\tJune 15\u201317",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 79
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_80",
+    "modality": "text",
+    "content": "o\tJune 15: ~7.99M total, a slight downshift caused by dips across Teams A, B, and C.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 80
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_81",
+    "modality": "text",
+    "content": "o\tJune 16: Moves close to 7.80M, marking a short-term low; Team A is below 2.80M, Team B near 2.12M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 81
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_82",
+    "modality": "text",
+    "content": "o\tJune 17: Rallies up to ~8.80M, with Team A at 3.20M, Perishable jumping to 2.57M\u2014helping recoup part of the midweek losses.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 82
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_84",
+    "modality": "text",
+    "content": "Week 4: June 18 \u2013 June 24",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 84
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_85",
+    "modality": "text",
+    "content": "1.\tJune 18 (Near 9.61M)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 85
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_86",
+    "modality": "text",
+    "content": "o\tA strong day overall. Team A pushes to 3.52M, and B to 2.64M. Perishable is ~2.55M, solidifying a near 9.61M total.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 86
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_87",
+    "modality": "text",
+    "content": "2.\tJune 19\u201320",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 87
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_88",
+    "modality": "text",
+    "content": "o\tJune 19: Falls slightly to 8.57M, with Team A at 3.24M, B at 2.38M, Perishable at 2.14M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 88
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_89",
+    "modality": "text",
+    "content": "o\tJune 20: Climbs back above 8.28M\u2014Team A still near 3.07M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 89
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_90",
+    "modality": "text",
+    "content": "3.\tJune 21\u201322",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 90
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_91",
+    "modality": "text",
+    "content": "o\tJune 21: ~7.97M. Minor retreats in Team A/B keep total under 8M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 91
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_92",
+    "modality": "text",
+    "content": "o\tJune 22 (Low Point): 7.71M total. Team A dips to 2.67M, B ~2.28M, and the rest also subdued\u2014lowest combined day in the entire series.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 92
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_93",
+    "modality": "text",
+    "content": "4.\tJune 23\u201324",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 93
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_94",
+    "modality": "text",
+    "content": "o\tJune 23: Slight bounce to 7.94M, with Team B near 2.36M, Perishable ~2.05M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 94
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_95",
+    "modality": "text",
+    "content": "o\tJune 24: Surges to ~9.23M, thanks to Team A near 3.10M, Team B ~2.88M, and Perishable ~2.31M\u2014one of the largest single-day recoveries in the series.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 95
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_97",
+    "modality": "text",
+    "content": "Week 5: June 25 \u2013 June 27",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 97
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_98",
+    "modality": "text",
+    "content": "1.\tJune 25 \u2013 26",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 98
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_99",
+    "modality": "text",
+    "content": "o\tJune 25: 9.06M total. Team A at 3.13M, B at 2.92M, with Perishable around 2.27M. Team C dips to ~0.73M, but the rest maintain higher levels.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 99
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_100",
+    "modality": "text",
+    "content": "o\tJune 26: Rises again to ~8.68M, though Team A sees a minor slip from 3.12M to 3.03M, offset by Team B nearing 2.52M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 100
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_101",
+    "modality": "text",
+    "content": "2.\tJune 27 (Final Day)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 101
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_102",
+    "modality": "text",
+    "content": "o\tCloses on a robust note at 8.18M. Team A climbs to 2.82M, B at 2.35M, Perishable ~2.25M, and Team C at 0.74M.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 102
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_103",
+    "modality": "text",
+    "content": "o\tThough slightly lower than the previous day, it remains solidly above the dataset\u2019s lower bound.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 103
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_105",
+    "modality": "text",
+    "content": "3. Team-Specific Observations",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 105
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_106",
+    "modality": "text",
+    "content": "1.\tTeam A (Faria)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 106
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_107",
+    "modality": "text",
+    "content": "o\tHighest Surges: June 3 (3.79M) and June 10 (4.05M) are standout peaks, exceeding 3.5M multiple times across the month.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 107
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_108",
+    "modality": "text",
+    "content": "o\tSignificant Dips: Slips below 2.80M around June 16\u201317 but bounces back quickly.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 108
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_109",
+    "modality": "text",
+    "content": "2.\tTeam B (Mustafiz)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 109
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_110",
+    "modality": "text",
+    "content": "o\tConsistent Top-Tier: Often the second-largest contributor, commonly in the 2.3\u20133.1M range.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 110
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_111",
+    "modality": "text",
+    "content": "o\tMajor Influence: Days when Team B crosses ~3M (June 3, June 10) coincide with overall revenue spikes.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 111
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_112",
+    "modality": "text",
+    "content": "3.\tTeam C (Mehboob)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 112
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_113",
+    "modality": "text",
+    "content": "o\tSmaller Scale: Typically 600\u2013900k daily, rarely above 900k but occasionally dips below 700k on slower days.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 113
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_114",
+    "modality": "text",
+    "content": "o\tStable Pattern: Changes in Team C\u2019s revenue are less dramatic yet show upturns during the big surges in early/mid-June.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 114
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_115",
+    "modality": "text",
+    "content": "4.\tPerishable (Rashed)",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 115
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_116",
+    "modality": "text",
+    "content": "o\t2\u20133M Range: Adds a sizable third layer of revenue.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 116
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_117",
+    "modality": "text",
+    "content": "o\tNotable Peaks: Reaches 3+ million on June 3 and ~2.82M on June 10, aligning with the overall top days.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 117
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_119",
+    "modality": "text",
+    "content": "4. Conclusions & Recommendations",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 119
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_120",
+    "modality": "text",
+    "content": "1.\tKey Revenue Drivers",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 120
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_121",
+    "modality": "text",
+    "content": "o\tTeam A and Team B exert the strongest push on daily totals, so supporting these teams\u2019 operations can yield larger shifts in total revenue.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 121
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_122",
+    "modality": "text",
+    "content": "2.\tCritical Highs and Lows",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 122
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_123",
+    "modality": "text",
+    "content": "o\tJune 3 (11.39M) and June 10 (10.88M) stand out as the top revenue days. Investigating marketing or operational events around those dates may provide insights for replicating that success.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 123
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_124",
+    "modality": "text",
+    "content": "o\tJune 22 marks the lowest total (~7.71M); it may be beneficial to determine if external factors, reduced promotions, or supply constraints contributed to that dip.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 124
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_125",
+    "modality": "text",
+    "content": "3.\tOpportunities for Growth",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 125
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_126",
+    "modality": "text",
+    "content": "o\tPerishable (Rashed), though fairly stable, shows potential to surge alongside A/B under the right circumstances (e.g., June 3, June 10). Targeted synergy with marketing could boost these spikes further.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 126
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_127",
+    "modality": "text",
+    "content": "o\tTeam C (Mehboob), while smallest in raw figures, can still capitalize on busy market days. Strategies that tie Team C\u2019s offerings to bigger promotional events might help narrow the gap.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 127
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_128",
+    "modality": "text",
+    "content": "4.\tFuture Monitoring",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 128
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_129",
+    "modality": "text",
+    "content": "o\tDay-by-day tracking of operational changes, seasonal factors, and promotions can pinpoint why certain days see leaps or drops in multiple teams\u2019 revenues simultaneously.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 129
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_130",
+    "modality": "text",
+    "content": "o\tContinue weekly or even daily reviews of each team\u2019s numbers to detect oncoming dips earlier and sustain momentum after high-performing days.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 130
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt_line_131",
+    "modality": "text",
+    "content": "By closely analyzing each team's day-to-day progress and the combined effect on Total Revenue, the organization can tailor its strategies\u2014promotional timing, resource allocation, and supply chain adjustments\u2014to sustain the strongest performance periods and mitigate dips in sales.",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28 to 2022-06-27).txt",
+      "line_number": 131
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_par0",
+    "modality": "text",
+    "content": "Date Team A - Faria Revenue Team B - Mustafiz Revenue Team C - Mehboob Revenue Perishable - Rashed Revenue Total Revenue\n2022-06-27 2824183 2353584.96 739525 2247167 8180827.96\n2022-06-26 3032459 2524794.88 824715 2275985 8676021.88\n2022-06-25 3127677 2923920 725604 2269718 9062970\n2022-06-24 3095953.35 2885204.92 925000 2310232 9231685.27\n2022-06-23 2805658 2360663.92 704180 2051977 7940241.92\n2022-06-22 2672947 2282011 742979 2003731.65 7717290.65\n2022-06-21 2765236 2408063.96 762909 2023240 7971177.96\n2022-06-20 3073901 2362439 783940 2049952 8288947\n2022-06-19 3238215.8 2378980 793076 2142632 8569297.8\n2022-06-18 3515289 2642607 882718 2549924 9609983\n2022-06-17 3203946 2274204 734766 2566372 8798653\n2022-06-16 2803869 2126117 684121 2166048 7803490\n2022-06-15 3025194 2200996.7 698160 2046541 7985248.7\n2022-06-14 2974863.32 2256856.6 743850 2154380 8145575.92\n2022-06-13 2876342.2 2352949.56 763432 2037751 8052511.76\n2022-06-12 3058940.2 2271315 667834 2097361 8116871.2\n2022-06-11 3464523 2775364.5 824792 2320351 9417174.5\n2022-06-10 4050724.3 3133379.95 820718 2816950 10880191.25\n2022-06-09 2988744.2 2357844.36 674906 2483525 8612977.56\n2022-06-08 3049427 2490214 738082 2269579 8761161\n2022-06-07 3254886.12 2606319.48 835533 2369164 9370220.6\n2022-06-06 3324762.12 2748126.48 704586 2366705 9471683.6\n2022-06-05 2876126 2466869.9 707461 2069999 8405244.9\n2022-06-04 3247959 2976892 871918 2414414 9752154\n2022-06-03 3790148 3454415.15 916717 3087923 11391354.15\n2022-06-02 3478459 2772195 804861 2470441 9665429\n2022-06-01 3612577 2821038 831005 2387753 9772302\n2022-05-31 3208886 2528297 778364 2124500 8752200\n2022-05-30 2971818.6 2382577 786536 2224389 8481818.6\n2022-05-29 2926000 2422097.9 742452 2149812 8381459.9\n2022-05-28 3114401 2692644.2 761347 2298270 8993688.2",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row0",
+    "modality": "text",
+    "content": "Date, Team A - Faria Revenue, Team B - Mustafiz Revenue, Team C - Mehboob Revenue, Perishable - Rashed Revenue, Total Revenue",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 0
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row1",
+    "modality": "text",
+    "content": "2022-06-27, 2824183, 2353584.96, 739525, 2247167, 8180827.96",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 1
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row2",
+    "modality": "text",
+    "content": "2022-06-26, 3032459, 2524794.88, 824715, 2275985, 8676021.88",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 2
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row3",
+    "modality": "text",
+    "content": "2022-06-25, 3127677, 2923920, 725604, 2269718, 9062970",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 3
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row4",
+    "modality": "text",
+    "content": "2022-06-24, 3095953.35, 2885204.92, 925000, 2310232, 9231685.27",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 4
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row5",
+    "modality": "text",
+    "content": "2022-06-23, 2805658, 2360663.92, 704180, 2051977, 7940241.92",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 5
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row6",
+    "modality": "text",
+    "content": "2022-06-22, 2672947, 2282011, 742979, 2003731.65, 7717290.65",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 6
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row7",
+    "modality": "text",
+    "content": "2022-06-21, 2765236, 2408063.96, 762909, 2023240, 7971177.96",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 7
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row8",
+    "modality": "text",
+    "content": "2022-06-20, 3073901, 2362439, 783940, 2049952, 8288947",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 8
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row9",
+    "modality": "text",
+    "content": "2022-06-19, 3238215.8, 2378980, 793076, 2142632, 8569297.8",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 9
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row10",
+    "modality": "text",
+    "content": "2022-06-18, 3515289, 2642607, 882718, 2549924, 9609983",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 10
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row11",
+    "modality": "text",
+    "content": "2022-06-17, 3203946, 2274204, 734766, 2566372, 8798653",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 11
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row12",
+    "modality": "text",
+    "content": "2022-06-16, 2803869, 2126117, 684121, 2166048, 7803490",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 12
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row13",
+    "modality": "text",
+    "content": "2022-06-15, 3025194, 2200996.7, 698160, 2046541, 7985248.7",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 13
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row14",
+    "modality": "text",
+    "content": "2022-06-14, 2974863.32, 2256856.6, 743850, 2154380, 8145575.92",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 14
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row15",
+    "modality": "text",
+    "content": "2022-06-13, 2876342.2, 2352949.56, 763432, 2037751, 8052511.76",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 15
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row16",
+    "modality": "text",
+    "content": "2022-06-12, 3058940.2, 2271315, 667834, 2097361, 8116871.2",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 16
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row17",
+    "modality": "text",
+    "content": "2022-06-11, 3464523, 2775364.5, 824792, 2320351, 9417174.5",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 17
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row18",
+    "modality": "text",
+    "content": "2022-06-10, 4050724.3, 3133379.95, 820718, 2816950, 10880191.25",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 18
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row19",
+    "modality": "text",
+    "content": "2022-06-09, 2988744.2, 2357844.36, 674906, 2483525, 8612977.56",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 19
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row20",
+    "modality": "text",
+    "content": "2022-06-08, 3049427, 2490214, 738082, 2269579, 8761161",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 20
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row21",
+    "modality": "text",
+    "content": "2022-06-07, 3254886.12, 2606319.48, 835533, 2369164, 9370220.6",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 21
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row22",
+    "modality": "text",
+    "content": "2022-06-06, 3324762.12, 2748126.48, 704586, 2366705, 9471683.6",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 22
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row23",
+    "modality": "text",
+    "content": "2022-06-05, 2876126, 2466869.9, 707461, 2069999, 8405244.9",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 23
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row24",
+    "modality": "text",
+    "content": "2022-06-04, 3247959, 2976892, 871918, 2414414, 9752154",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 24
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row25",
+    "modality": "text",
+    "content": "2022-06-03, 3790148, 3454415.15, 916717, 3087923, 11391354.15",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 25
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row26",
+    "modality": "text",
+    "content": "2022-06-02, 3478459, 2772195, 804861, 2470441, 9665429",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 26
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row27",
+    "modality": "text",
+    "content": "2022-06-01, 3612577, 2821038, 831005, 2387753, 9772302",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 27
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row28",
+    "modality": "text",
+    "content": "2022-05-31, 3208886, 2528297, 778364, 2124500, 8752200",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 28
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row29",
+    "modality": "text",
+    "content": "2022-05-30, 2971818.6, 2382577, 786536, 2224389, 8481818.6",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 29
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row30",
+    "modality": "text",
+    "content": "2022-05-29, 2926000, 2422097.9, 742452, 2149812, 8381459.9",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 30
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p0_table0_row31",
+    "modality": "text",
+    "content": "2022-05-28, 3114401, 2692644.2, 761347, 2298270, 8993688.2",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 0,
+      "table_index": 0,
+      "row_index": 31
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p2_par0",
+    "modality": "text",
+    "content": "1. Overall Month Summary\n1. Total Revenue Range\no Over the 31-day interval, Total Revenue fluctuated between roughly 7.7 million at its lowest (on June 22) and a peak above 11.3\nmillion (on June 3).\no The sharpest surges occurred in early June, followed by mid-June variability and a slight downturn toward the final week.\n2. Team Contributions\no Team A (Faria) and Team B (Mustafiz) consistently command the highest revenue shares, each often surpassing 2 million per\nday. On some days, Team A or Team B alone can exceed 3 or even 4 million, strongly influencing the daily total.\no Perishable (Rashed) typically falls in the 2\u20133 million bracket, offering solid but less volatile contributions.\no Team C (Mehboob) remains the smallest driver, generally in the 600k\u2013900k range, though still sensitive to day-to-day\nfluctuations.\n2. Week-by-Week and Daily Ups/Downs\nA. Week 1: May 28 \u2013 June 3\n\u2022 May 28 (Start):\no Total Revenue sits at 8.99 million, an already robust figure. Team A logs about 3.11 million, Team B around 2.69 million, and\nPerishable stands at 2.29 million.\no Team C (761k) remains comparatively modest.\n\u2022 May 29\u201330:\no Minor dips for Team A: from 3.11 million down to ~2.97 million by May 30. Team B declines slightly as well.\no Perishable hovers around 2.14\u20132.22 million, keeping the daily total near the 8.3\u20138.4 million mark.\n\u2022 May 31 \u2013 June 1:\no Total Revenue rebounds above 8.75 million on May 31 and climbs to 9.77 million on June 1.\no Team A edges up from 3.20 million to",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 2
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p3_par0",
+    "modality": "text",
+    "content": "Comprehensive Sales and Team Performance Report\n(Covering 2022-05-28 to 2022-06-27)\nBelow is a detailed narrative of daily revenue swings, team-specific rises and dips, and overall performance patterns across the month-long\nperiod. The data includes four teams\u2014Team A (Faria), Team B (Mustafiz), Team C (Mehboob), and Perishable (Rashed)\u2014plus a Total\nRevenue column.\n1. Overall Month Summary\n1. Total Revenue Range\no Over this 31-day interval, Total Revenue fluctuates between roughly 7.7 million (on June 22, its lowest) and above 11.3 million\n(on June 3, its highest).\no The sharpest surge occurs in the first week of June, after which mid-June shows moderate ups and downs, leading to a slight dip\nin the final week.\n2. Team Contributions\no Team A (Faria) and Team B (Mustafiz) consistently command the highest revenue shares, each often 2+ million daily. On\ncertain days, either team can surpass 3 or even 4 million, heavily influencing total daily revenue.\no Perishable (Rashed) usually lands in the 2\u20133 million range, contributing notably but with fewer dramatic swings than Teams\nA/B.\no Team C (Mehboob) remains the smallest contributor, typically 600k\u2013900k a day, but still fluctuates along with overall trends.\n2. Week-by-Week & Daily Ups/Downs\nWeek 1: May 28 \u2013 June 3",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 3
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p4_par0",
+    "modality": "text",
+    "content": "1. May 28 (Start Point)\no Total Revenue: 8.99 million\no Team A: 3.11M, Team B: 2.69M, Team C: 0.76M, Perishable: 2.30M\no Key Observation: A strong baseline day; Teams A and B already near the 3M mark, buoying the total close to 9M.\n2. May 29\u201330\no Slight Dip Overall: Total drops to ~8.38M by May 29 and 8.48M by May 30.\no Team A slides a bit from 3.11M to around 2.92\u20132.97M; Team B dips to ~2.38\u20132.52M.\no Main Driver: Perishable hovers ~2.14\u20132.22M, keeping the daily totals from falling too far.\n3. May 31 \u2013 June 1\no May 31: A modest rebound to 8.75M total; Team A up to 3.21M, Team B near 2.53M.\no June 1: Total spikes at 9.77M. Notably, Team A surpasses 3.6M, and Team B crosses 2.82M.\no Surge Factor: Both Team C and Perishable inch up, too\u2014Team C around 0.83M, Perishable near 2.39M.\n4. June 2 \u2013 June 3 (Major Peaks)\no June 2: Total hits 9.66M. Team A stays above 3.47M; Team B near 2.77M; Perishable ~2.47M.\no June 3 (Highest Day): Reaches 11.39 million overall.\n\u25aa Team A: ~3.79M\n\u25aa Team B: ~3.45M\n\u25aa Perishable: ~3.09M\n\u25aa Team C: ~0.92M\no Highlight: This is the largest daily revenue in the entire dataset, marking a sharp collective rise across all teams.\nWeek 2: June 4 \u2013 June 10\n1. June 4\u20135\no June 4: Total remains high at 9.75M, supported by 3.25M from Team A, ~2.98M from Team B, and ~2.41M from Perishable.\no June 5: A slight dip to 8.40M, partly because Team A slides below 2.88M. Team B also dips to ~2.46M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 4
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p5_par0",
+    "modality": "text",
+    "content": "2. June 6\u20137\no June 6: Total rebounds above 9.47M. Team A crosses 3.32M, Team B near 2.75M, with Team C steady at ~0.70M.\no June 7: Another uptick to 9.37M (Team A ~3.25M, Team B ~2.61M), showing a mild day-to-day fluctuation but still\nmaintaining a high level.\n3. June 8\u20139\no June 8: 8.76M in total, with minor dips in Team A and Team B, though Perishable remains above 2.26M.\no June 9: Jumps to 8.61M. Team B hovers around 2.36M, while Team A dips slightly to ~2.99M. However, Perishable spikes to\naround 2.48M, offsetting the small drops from others.\n4. June 10 (Another Peak)\no Total Revenue soars to 10.88M, the second-highest day in this dataset.\no Team A crosses 4.05M, while Team B jumps to 3.13M. Perishable sees a sizeable jump to ~2.82M.\no Key Driver: Nearly all teams exhibit daily highs, echoing the synergy seen on June 3.\nWeek 3: June 11 \u2013 June 17\n1. June 11\u201312\no June 11: Total at ~9.42M, led by a strong 3.46M from Team A and 2.78M from Team B.\no June 12: Slight drop to 8.12M, as Team A dips below 3.06M and Team B near 2.27M. Perishable also retreats to ~2.10M.\n2. June 13\u201314\no June 13: 8.05M total; Team A ~2.88M, Team B ~2.35M, with consistent Perishable revenue near 2.04M.\no June 14: A mild rise to 8.15M, driven by Team A at ~2.97M and B at ~2.26M.\no Note: These mid-range daily totals reflect neither extreme highs nor deep lows; stable day-to-day transitions.\n3. June 15\u201317\no June 15: ~7.99M total, a slight downshift caused by dips across Teams A, B, and C.\no June 16: Moves close to 7.80M, marking a short-term low; Team A is below 2.80M, Team B near 2.12M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 5
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p6_par0",
+    "modality": "text",
+    "content": "o June 17: Rallies up to ~8.80M, with Team A at 3.20M, Perishable jumping to 2.57M\u2014helping recoup part of the midweek\nlosses.\nWeek 4: June 18 \u2013 June 24\n1. June 18 (Near 9.61M)\no A strong day overall. Team A pushes to 3.52M, and B to 2.64M. Perishable is ~2.55M, solidifying a near 9.61M total.\n2. June 19\u201320\no June 19: Falls slightly to 8.57M, with Team A at 3.24M, B at 2.38M, Perishable at 2.14M.\no June 20: Climbs back above 8.28M\u2014Team A still near 3.07M.\n3. June 21\u201322\no June 21: ~7.97M. Minor retreats in Team A/B keep total under 8M.\no June 22 (Low Point): 7.71M total. Team A dips to 2.67M, B ~2.28M, and the rest also subdued\u2014lowest combined day in the\nentire series.\n4. June 23\u201324\no June 23: Slight bounce to 7.94M, with Team B near 2.36M, Perishable ~2.05M.\no June 24: Surges to ~9.23M, thanks to Team A near 3.10M, Team B ~2.88M, and Perishable ~2.31M\u2014one of the largest single-\nday recoveries in the series.\nWeek 5: June 25 \u2013 June 27\n1. June 25 \u2013 26\no June 25: 9.06M total. Team A at 3.13M, B at 2.92M, with Perishable around 2.27M. Team C dips to ~0.73M, but the rest\nmaintain higher levels.\no June 26: Rises again to ~8.68M, though Team A sees a minor slip from 3.12M to 3.03M, offset by Team B nearing 2.52M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 6
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p7_par0",
+    "modality": "text",
+    "content": "2. June 27 (Final Day)\no Closes on a robust note at 8.18M. Team A climbs to 2.82M, B at 2.35M, Perishable ~2.25M, and Team C at 0.74M.\no Though slightly lower than the previous day, it remains solidly above the dataset\u2019s lower bound.\n3. Team-Specific Observations\n1. Team A (Faria)\no Highest Surges: June 3 (3.79M) and June 10 (4.05M) are standout peaks, exceeding 3.5M multiple times across the month.\no Significant Dips: Slips below 2.80M around June 16\u201317 but bounces back quickly.\n2. Team B (Mustafiz)\no Consistent Top-Tier: Often the second-largest contributor, commonly in the 2.3\u20133.1M range.\no Major Influence: Days when Team B crosses ~3M (June 3, June 10) coincide with overall revenue spikes.\n3. Team C (Mehboob)\no Smaller Scale: Typically 600\u2013900k daily, rarely above 900k but occasionally dips below 700k on slower days.\no Stable Pattern: Changes in Team C\u2019s revenue are less dramatic yet show upturns during the big surges in early/mid-June.\n4. Perishable (Rashed)\no 2\u20133M Range: Adds a sizable third layer of revenue.\no Notable Peaks: Reaches 3+ million on June 3 and ~2.82M on June 10, aligning with the overall top days.\n4. Conclusions & Recommendations\n1. Key Revenue Drivers\no Team A and Team B exert the strongest push on daily totals, so supporting these teams\u2019 operations can yield larger shifts in total\nrevenue.",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 7
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.pdf_p8_par0",
+    "modality": "text",
+    "content": "2. Critical Highs and Lows\no June 3 (11.39M) and June 10 (10.88M) stand out as the top revenue days. Investigating marketing or operational events around\nthose dates may provide insights for replicating that success.\no June 22 marks the lowest total (~7.71M); it may be beneficial to determine if external factors, reduced promotions, or supply\nconstraints contributed to that dip.\n3. Opportunities for Growth\no Perishable (Rashed), though fairly stable, shows potential to surge alongside A/B under the right circumstances (e.g., June 3,\nJune 10). Targeted synergy with marketing could boost these spikes further.\no Team C (Mehboob), while smallest in raw figures, can still capitalize on busy market days. Strategies that tie Team C\u2019s offerings\nto bigger promotional events might help narrow the gap.\n4. Future Monitoring\no Day-by-day tracking of operational changes, seasonal factors, and promotions can pinpoint why certain days see leaps or drops\nin multiple teams\u2019 revenues simultaneously.\no Continue weekly or even daily reviews of each team\u2019s numbers to detect oncoming dips earlier and sustain momentum after\nhigh-performing days.\nBy closely analyzing each team's day-to-day progress and the combined effect on Total Revenue, the organization can tailor its strategies\u2014\npromotional timing, resource allocation, and supply chain adjustments\u2014to sustain the strongest performance periods and mitigate dips in sales.",
+    "metadata": {
+      "file_name": "Sample text table and chat.pdf",
+      "page_number": 8
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_0",
+    "modality": "text",
+    "content": "Date: 2022-06-27, Team A - Faria Revenue: 2824183.0, Team B - Mustafiz Revenue: 2353584.96, Team C - Mehboob Revenue: 739525, Perishable - Rashed Revenue: 2247167.0, Total Revenue: 8180827.96",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 0
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_1",
+    "modality": "text",
+    "content": "Date: 2022-06-26, Team A - Faria Revenue: 3032459.0, Team B - Mustafiz Revenue: 2524794.88, Team C - Mehboob Revenue: 824715, Perishable - Rashed Revenue: 2275985.0, Total Revenue: 8676021.88",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 1
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_2",
+    "modality": "text",
+    "content": "Date: 2022-06-25, Team A - Faria Revenue: 3127677.0, Team B - Mustafiz Revenue: 2923920.0, Team C - Mehboob Revenue: 725604, Perishable - Rashed Revenue: 2269718.0, Total Revenue: 9062970.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 2
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_3",
+    "modality": "text",
+    "content": "Date: 2022-06-24, Team A - Faria Revenue: 3095953.35, Team B - Mustafiz Revenue: 2885204.92, Team C - Mehboob Revenue: 925000, Perishable - Rashed Revenue: 2310232.0, Total Revenue: 9231685.27",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 3
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_4",
+    "modality": "text",
+    "content": "Date: 2022-06-23, Team A - Faria Revenue: 2805658.0, Team B - Mustafiz Revenue: 2360663.92, Team C - Mehboob Revenue: 704180, Perishable - Rashed Revenue: 2051977.0, Total Revenue: 7940241.92",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 4
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_5",
+    "modality": "text",
+    "content": "Date: 2022-06-22, Team A - Faria Revenue: 2672947.0, Team B - Mustafiz Revenue: 2282011.0, Team C - Mehboob Revenue: 742979, Perishable - Rashed Revenue: 2003731.65, Total Revenue: 7717290.65",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 5
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_6",
+    "modality": "text",
+    "content": "Date: 2022-06-21, Team A - Faria Revenue: 2765236.0, Team B - Mustafiz Revenue: 2408063.96, Team C - Mehboob Revenue: 762909, Perishable - Rashed Revenue: 2023240.0, Total Revenue: 7971177.96",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 6
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_7",
+    "modality": "text",
+    "content": "Date: 2022-06-20, Team A - Faria Revenue: 3073901.0, Team B - Mustafiz Revenue: 2362439.0, Team C - Mehboob Revenue: 783940, Perishable - Rashed Revenue: 2049952.0, Total Revenue: 8288947.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 7
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_8",
+    "modality": "text",
+    "content": "Date: 2022-06-19, Team A - Faria Revenue: 3238215.8, Team B - Mustafiz Revenue: 2378980.0, Team C - Mehboob Revenue: 793076, Perishable - Rashed Revenue: 2142632.0, Total Revenue: 8569297.8",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 8
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_9",
+    "modality": "text",
+    "content": "Date: 2022-06-18, Team A - Faria Revenue: 3515289.0, Team B - Mustafiz Revenue: 2642607.0, Team C - Mehboob Revenue: 882718, Perishable - Rashed Revenue: 2549924.0, Total Revenue: 9609983.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 9
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_10",
+    "modality": "text",
+    "content": "Date: 2022-06-17, Team A - Faria Revenue: 3203946.0, Team B - Mustafiz Revenue: 2274204.0, Team C - Mehboob Revenue: 734766, Perishable - Rashed Revenue: 2566372.0, Total Revenue: 8798653.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 10
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_11",
+    "modality": "text",
+    "content": "Date: 2022-06-16, Team A - Faria Revenue: 2803869.0, Team B - Mustafiz Revenue: 2126117.0, Team C - Mehboob Revenue: 684121, Perishable - Rashed Revenue: 2166048.0, Total Revenue: 7803490.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 11
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_12",
+    "modality": "text",
+    "content": "Date: 2022-06-15, Team A - Faria Revenue: 3025194.0, Team B - Mustafiz Revenue: 2200996.7, Team C - Mehboob Revenue: 698160, Perishable - Rashed Revenue: 2046541.0, Total Revenue: 7985248.7",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 12
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_13",
+    "modality": "text",
+    "content": "Date: 2022-06-14, Team A - Faria Revenue: 2974863.32, Team B - Mustafiz Revenue: 2256856.6, Team C - Mehboob Revenue: 743850, Perishable - Rashed Revenue: 2154380.0, Total Revenue: 8145575.92",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 13
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_14",
+    "modality": "text",
+    "content": "Date: 2022-06-13, Team A - Faria Revenue: 2876342.2, Team B - Mustafiz Revenue: 2352949.56, Team C - Mehboob Revenue: 763432, Perishable - Rashed Revenue: 2037751.0, Total Revenue: 8052511.76",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 14
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_15",
+    "modality": "text",
+    "content": "Date: 2022-06-12, Team A - Faria Revenue: 3058940.2, Team B - Mustafiz Revenue: 2271315.0, Team C - Mehboob Revenue: 667834, Perishable - Rashed Revenue: 2097361.0, Total Revenue: 8116871.2",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 15
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_16",
+    "modality": "text",
+    "content": "Date: 2022-06-11, Team A - Faria Revenue: 3464523.0, Team B - Mustafiz Revenue: 2775364.5, Team C - Mehboob Revenue: 824792, Perishable - Rashed Revenue: 2320351.0, Total Revenue: 9417174.5",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 16
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_17",
+    "modality": "text",
+    "content": "Date: 2022-06-10, Team A - Faria Revenue: 4050724.3, Team B - Mustafiz Revenue: 3133379.95, Team C - Mehboob Revenue: 820718, Perishable - Rashed Revenue: 2816950.0, Total Revenue: 10880191.25",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 17
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_18",
+    "modality": "text",
+    "content": "Date: 2022-06-09, Team A - Faria Revenue: 2988744.2, Team B - Mustafiz Revenue: 2357844.36, Team C - Mehboob Revenue: 674906, Perishable - Rashed Revenue: 2483525.0, Total Revenue: 8612977.56",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 18
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_19",
+    "modality": "text",
+    "content": "Date: 2022-06-08, Team A - Faria Revenue: 3049427.0, Team B - Mustafiz Revenue: 2490214.0, Team C - Mehboob Revenue: 738082, Perishable - Rashed Revenue: 2269579.0, Total Revenue: 8761161.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 19
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_20",
+    "modality": "text",
+    "content": "Date: 2022-06-07, Team A - Faria Revenue: 3254886.12, Team B - Mustafiz Revenue: 2606319.48, Team C - Mehboob Revenue: 835533, Perishable - Rashed Revenue: 2369164.0, Total Revenue: 9370220.6",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 20
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_21",
+    "modality": "text",
+    "content": "Date: 2022-06-06, Team A - Faria Revenue: 3324762.12, Team B - Mustafiz Revenue: 2748126.48, Team C - Mehboob Revenue: 704586, Perishable - Rashed Revenue: 2366705.0, Total Revenue: 9471683.6",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 21
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_22",
+    "modality": "text",
+    "content": "Date: 2022-06-05, Team A - Faria Revenue: 2876126.0, Team B - Mustafiz Revenue: 2466869.9, Team C - Mehboob Revenue: 707461, Perishable - Rashed Revenue: 2069999.0, Total Revenue: 8405244.9",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 22
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_23",
+    "modality": "text",
+    "content": "Date: 2022-06-04, Team A - Faria Revenue: 3247959.0, Team B - Mustafiz Revenue: 2976892.0, Team C - Mehboob Revenue: 871918, Perishable - Rashed Revenue: 2414414.0, Total Revenue: 9752154.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 23
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_24",
+    "modality": "text",
+    "content": "Date: 2022-06-03, Team A - Faria Revenue: 3790148.0, Team B - Mustafiz Revenue: 3454415.15, Team C - Mehboob Revenue: 916717, Perishable - Rashed Revenue: 3087923.0, Total Revenue: 11391354.15",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 24
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_25",
+    "modality": "text",
+    "content": "Date: 2022-06-02, Team A - Faria Revenue: 3478459.0, Team B - Mustafiz Revenue: 2772195.0, Team C - Mehboob Revenue: 804861, Perishable - Rashed Revenue: 2470441.0, Total Revenue: 9665429.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 25
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_26",
+    "modality": "text",
+    "content": "Date: 2022-06-01, Team A - Faria Revenue: 3612577.0, Team B - Mustafiz Revenue: 2821038.0, Team C - Mehboob Revenue: 831005, Perishable - Rashed Revenue: 2387753.0, Total Revenue: 9772302.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 26
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_27",
+    "modality": "text",
+    "content": "Date: 2022-05-31, Team A - Faria Revenue: 3208886.0, Team B - Mustafiz Revenue: 2528297.0, Team C - Mehboob Revenue: 778364, Perishable - Rashed Revenue: 2124500.0, Total Revenue: 8752200.0",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 27
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_28",
+    "modality": "text",
+    "content": "Date: 2022-05-30, Team A - Faria Revenue: 2971818.6, Team B - Mustafiz Revenue: 2382577.0, Team C - Mehboob Revenue: 786536, Perishable - Rashed Revenue: 2224389.0, Total Revenue: 8481818.6",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 28
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_29",
+    "modality": "text",
+    "content": "Date: 2022-05-29, Team A - Faria Revenue: 2926000.0, Team B - Mustafiz Revenue: 2422097.9, Team C - Mehboob Revenue: 742452, Perishable - Rashed Revenue: 2149812.0, Total Revenue: 8381459.9",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 29
+    }
+  },
+  {
+    "chunk_id": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx_row_30",
+    "modality": "text",
+    "content": "Date: 2022-05-28, Team A - Faria Revenue: 3114401.0, Team B - Mustafiz Revenue: 2692644.2, Team C - Mehboob Revenue: 761347, Perishable - Rashed Revenue: 2298270.0, Total Revenue: 8993688.2",
+    "metadata": {
+      "file_name": "Daily Revenue by Team (2022-05-28) to (2022-06-27).xlsx",
+      "row_index": 30
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_1",
+    "modality": "text",
+    "content": "1. Overall Month Summary",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 1
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_2",
+    "modality": "text",
+    "content": "Total Revenue Range",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 2
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_3",
+    "modality": "text",
+    "content": "Over the 31-day interval, Total Revenue fluctuated between roughly 7.7 million at its lowest (on June 22) and a peak above 11.3 million (on June 3).",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 3
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_4",
+    "modality": "text",
+    "content": "The sharpest surges occurred in early June, followed by mid-June variability and a slight downturn toward the final week.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 4
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_5",
+    "modality": "text",
+    "content": "Team Contributions",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 5
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_6",
+    "modality": "text",
+    "content": "Team A (Faria) and Team B (Mustafiz) consistently command the highest revenue shares, each often surpassing 2 million per day. On some days, Team A or Team B alone can exceed 3 or even 4 million, strongly influencing the daily total.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 6
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_7",
+    "modality": "text",
+    "content": "Perishable (Rashed) typically falls in the 2\u20133 million bracket, offering solid but less volatile contributions.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 7
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_8",
+    "modality": "text",
+    "content": "Team C (Mehboob) remains the smallest driver, generally in the 600k\u2013900k range, though still sensitive to day-to-day fluctuations.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 8
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_10",
+    "modality": "text",
+    "content": "2. Week-by-Week and Daily Ups/Downs",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 10
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_11",
+    "modality": "text",
+    "content": "A. Week 1: May 28 \u2013 June 3",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 11
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_12",
+    "modality": "text",
+    "content": "May 28 (Start):",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 12
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_13",
+    "modality": "text",
+    "content": "Total Revenue sits at 8.99 million, an already robust figure. Team A logs about 3.11 million, Team B around 2.69 million, and Perishable stands at 2.29 million.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 13
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_14",
+    "modality": "text",
+    "content": "Team C (761k) remains comparatively modest.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 14
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_15",
+    "modality": "text",
+    "content": "May 29\u201330:",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 15
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_16",
+    "modality": "text",
+    "content": "Minor dips for Team A: from 3.11 million down to ~2.97 million by May 30. Team B declines slightly as well.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 16
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_17",
+    "modality": "text",
+    "content": "Perishable hovers around 2.14\u20132.22 million, keeping the daily total near the 8.3\u20138.4 million mark.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 17
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_18",
+    "modality": "text",
+    "content": "May 31 \u2013 June 1:",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 18
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_19",
+    "modality": "text",
+    "content": "Total Revenue rebounds above 8.75 million on May 31 and climbs to 9.77 million on June 1.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 19
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_20",
+    "modality": "text",
+    "content": "Team A edges up from 3.20 million to",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 20
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_21",
+    "modality": "text",
+    "content": "Comprehensive Sales and Team Performance Report\n(Covering 2022-05-28 to 2022-06-27)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 21
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_22",
+    "modality": "text",
+    "content": "Below is a detailed narrative of daily revenue swings, team-specific rises and dips, and overall performance patterns across the month-long period. The data includes four teams\u2014Team A (Faria), Team B (Mustafiz), Team C (Mehboob), and Perishable (Rashed)\u2014plus a Total Revenue column.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 22
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_24",
+    "modality": "text",
+    "content": "1. Overall Month Summary",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 24
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_25",
+    "modality": "text",
+    "content": "Total Revenue Range",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 25
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_26",
+    "modality": "text",
+    "content": "Over this 31-day interval, Total Revenue fluctuates between roughly 7.7 million (on June 22, its lowest) and above 11.3 million (on June 3, its highest).",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 26
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_27",
+    "modality": "text",
+    "content": "The sharpest surge occurs in the first week of June, after which mid-June shows moderate ups and downs, leading to a slight dip in the final week.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 27
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_28",
+    "modality": "text",
+    "content": "Team Contributions",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 28
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_29",
+    "modality": "text",
+    "content": "Team A (Faria) and Team B (Mustafiz) consistently command the highest revenue shares, each often 2+ million daily. On certain days, either team can surpass 3 or even 4 million, heavily influencing total daily revenue.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 29
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_30",
+    "modality": "text",
+    "content": "Perishable (Rashed) usually lands in the 2\u20133 million range, contributing notably but with fewer dramatic swings than Teams A/B.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 30
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_31",
+    "modality": "text",
+    "content": "Team C (Mehboob) remains the smallest contributor, typically 600k\u2013900k a day, but still fluctuates along with overall trends.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 31
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_33",
+    "modality": "text",
+    "content": "2. Week-by-Week & Daily Ups/Downs",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 33
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_34",
+    "modality": "text",
+    "content": "Week 1: May 28 \u2013 June 3",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 34
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_35",
+    "modality": "text",
+    "content": "May 28 (Start Point)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 35
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_36",
+    "modality": "text",
+    "content": "Total Revenue: 8.99 million",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 36
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_37",
+    "modality": "text",
+    "content": "Team A: 3.11M, Team B: 2.69M, Team C: 0.76M, Perishable: 2.30M",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 37
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_38",
+    "modality": "text",
+    "content": "Key Observation: A strong baseline day; Teams A and B already near the 3M mark, buoying the total close to 9M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 38
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_39",
+    "modality": "text",
+    "content": "May 29\u201330",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 39
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_40",
+    "modality": "text",
+    "content": "Slight Dip Overall: Total drops to ~8.38M by May 29 and 8.48M by May 30.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 40
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_41",
+    "modality": "text",
+    "content": "Team A slides a bit from 3.11M to around 2.92\u20132.97M; Team B dips to ~2.38\u20132.52M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 41
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_42",
+    "modality": "text",
+    "content": "Main Driver: Perishable hovers ~2.14\u20132.22M, keeping the daily totals from falling too far.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 42
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_43",
+    "modality": "text",
+    "content": "May 31 \u2013 June 1",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 43
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_44",
+    "modality": "text",
+    "content": "May 31: A modest rebound to 8.75M total; Team A up to 3.21M, Team B near 2.53M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 44
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_45",
+    "modality": "text",
+    "content": "June 1: Total spikes at 9.77M. Notably, Team A surpasses 3.6M, and Team B crosses 2.82M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 45
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_46",
+    "modality": "text",
+    "content": "Surge Factor: Both Team C and Perishable inch up, too\u2014Team C around 0.83M, Perishable near 2.39M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 46
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_47",
+    "modality": "text",
+    "content": "June 2 \u2013 June 3 (Major Peaks)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 47
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_48",
+    "modality": "text",
+    "content": "June 2: Total hits 9.66M. Team A stays above 3.47M; Team B near 2.77M; Perishable ~2.47M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 48
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_49",
+    "modality": "text",
+    "content": "June 3 (Highest Day): Reaches 11.39 million overall.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 49
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_50",
+    "modality": "text",
+    "content": "Team A: ~3.79M",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 50
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_51",
+    "modality": "text",
+    "content": "Team B: ~3.45M",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 51
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_52",
+    "modality": "text",
+    "content": "Perishable: ~3.09M",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 52
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_53",
+    "modality": "text",
+    "content": "Team C: ~0.92M",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 53
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_54",
+    "modality": "text",
+    "content": "Highlight: This is the largest daily revenue in the entire dataset, marking a sharp collective rise across all teams.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 54
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_56",
+    "modality": "text",
+    "content": "Week 2: June 4 \u2013 June 10",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 56
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_57",
+    "modality": "text",
+    "content": "June 4\u20135",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 57
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_58",
+    "modality": "text",
+    "content": "June 4: Total remains high at 9.75M, supported by 3.25M from Team A, ~2.98M from Team B, and ~2.41M from Perishable.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 58
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_59",
+    "modality": "text",
+    "content": "June 5: A slight dip to 8.40M, partly because Team A slides below 2.88M. Team B also dips to ~2.46M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 59
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_60",
+    "modality": "text",
+    "content": "June 6\u20137",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 60
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_61",
+    "modality": "text",
+    "content": "June 6: Total rebounds above 9.47M. Team A crosses 3.32M, Team B near 2.75M, with Team C steady at ~0.70M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 61
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_62",
+    "modality": "text",
+    "content": "June 7: Another uptick to 9.37M (Team A ~3.25M, Team B ~2.61M), showing a mild day-to-day fluctuation but still maintaining a high level.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 62
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_63",
+    "modality": "text",
+    "content": "June 8\u20139",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 63
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_64",
+    "modality": "text",
+    "content": "June 8: 8.76M in total, with minor dips in Team A and Team B, though Perishable remains above 2.26M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 64
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_65",
+    "modality": "text",
+    "content": "June 9: Jumps to 8.61M. Team B hovers around 2.36M, while Team A dips slightly to ~2.99M. However, Perishable spikes to around 2.48M, offsetting the small drops from others.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 65
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_66",
+    "modality": "text",
+    "content": "June 10 (Another Peak)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 66
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_67",
+    "modality": "text",
+    "content": "Total Revenue soars to 10.88M, the second-highest day in this dataset.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 67
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_68",
+    "modality": "text",
+    "content": "Team A crosses 4.05M, while Team B jumps to 3.13M. Perishable sees a sizeable jump to ~2.82M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 68
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_69",
+    "modality": "text",
+    "content": "Key Driver: Nearly all teams exhibit daily highs, echoing the synergy seen on June 3.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 69
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_71",
+    "modality": "text",
+    "content": "Week 3: June 11 \u2013 June 17",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 71
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_72",
+    "modality": "text",
+    "content": "June 11\u201312",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 72
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_73",
+    "modality": "text",
+    "content": "June 11: Total at ~9.42M, led by a strong 3.46M from Team A and 2.78M from Team B.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 73
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_74",
+    "modality": "text",
+    "content": "June 12: Slight drop to 8.12M, as Team A dips below 3.06M and Team B near 2.27M. Perishable also retreats to ~2.10M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 74
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_75",
+    "modality": "text",
+    "content": "June 13\u201314",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 75
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_76",
+    "modality": "text",
+    "content": "June 13: 8.05M total; Team A ~2.88M, Team B ~2.35M, with consistent Perishable revenue near 2.04M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 76
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_77",
+    "modality": "text",
+    "content": "June 14: A mild rise to 8.15M, driven by Team A at ~2.97M and B at ~2.26M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 77
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_78",
+    "modality": "text",
+    "content": "Note: These mid-range daily totals reflect neither extreme highs nor deep lows; stable day-to-day transitions.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 78
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_79",
+    "modality": "text",
+    "content": "June 15\u201317",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 79
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_80",
+    "modality": "text",
+    "content": "June 15: ~7.99M total, a slight downshift caused by dips across Teams A, B, and C.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 80
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_81",
+    "modality": "text",
+    "content": "June 16: Moves close to 7.80M, marking a short-term low; Team A is below 2.80M, Team B near 2.12M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 81
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_82",
+    "modality": "text",
+    "content": "June 17: Rallies up to ~8.80M, with Team A at 3.20M, Perishable jumping to 2.57M\u2014helping recoup part of the midweek losses.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 82
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_84",
+    "modality": "text",
+    "content": "Week 4: June 18 \u2013 June 24",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 84
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_85",
+    "modality": "text",
+    "content": "June 18 (Near 9.61M)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 85
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_86",
+    "modality": "text",
+    "content": "A strong day overall. Team A pushes to 3.52M, and B to 2.64M. Perishable is ~2.55M, solidifying a near 9.61M total.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 86
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_87",
+    "modality": "text",
+    "content": "June 19\u201320",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 87
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_88",
+    "modality": "text",
+    "content": "June 19: Falls slightly to 8.57M, with Team A at 3.24M, B at 2.38M, Perishable at 2.14M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 88
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_89",
+    "modality": "text",
+    "content": "June 20: Climbs back above 8.28M\u2014Team A still near 3.07M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 89
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_90",
+    "modality": "text",
+    "content": "June 21\u201322",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 90
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_91",
+    "modality": "text",
+    "content": "June 21: ~7.97M. Minor retreats in Team A/B keep total under 8M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 91
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_92",
+    "modality": "text",
+    "content": "June 22 (Low Point): 7.71M total. Team A dips to 2.67M, B ~2.28M, and the rest also subdued\u2014lowest combined day in the entire series.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 92
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_93",
+    "modality": "text",
+    "content": "June 23\u201324",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 93
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_94",
+    "modality": "text",
+    "content": "June 23: Slight bounce to 7.94M, with Team B near 2.36M, Perishable ~2.05M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 94
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_95",
+    "modality": "text",
+    "content": "June 24: Surges to ~9.23M, thanks to Team A near 3.10M, Team B ~2.88M, and Perishable ~2.31M\u2014one of the largest single-day recoveries in the series.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 95
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_97",
+    "modality": "text",
+    "content": "Week 5: June 25 \u2013 June 27",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 97
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_98",
+    "modality": "text",
+    "content": "June 25 \u2013 26",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 98
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_99",
+    "modality": "text",
+    "content": "June 25: 9.06M total. Team A at 3.13M, B at 2.92M, with Perishable around 2.27M. Team C dips to ~0.73M, but the rest maintain higher levels.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 99
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_100",
+    "modality": "text",
+    "content": "June 26: Rises again to ~8.68M, though Team A sees a minor slip from 3.12M to 3.03M, offset by Team B nearing 2.52M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 100
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_101",
+    "modality": "text",
+    "content": "June 27 (Final Day)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 101
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_102",
+    "modality": "text",
+    "content": "Closes on a robust note at 8.18M. Team A climbs to 2.82M, B at 2.35M, Perishable ~2.25M, and Team C at 0.74M.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 102
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_103",
+    "modality": "text",
+    "content": "Though slightly lower than the previous day, it remains solidly above the dataset\u2019s lower bound.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 103
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_105",
+    "modality": "text",
+    "content": "3. Team-Specific Observations",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 105
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_106",
+    "modality": "text",
+    "content": "Team A (Faria)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 106
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_107",
+    "modality": "text",
+    "content": "Highest Surges: June 3 (3.79M) and June 10 (4.05M) are standout peaks, exceeding 3.5M multiple times across the month.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 107
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_108",
+    "modality": "text",
+    "content": "Significant Dips: Slips below 2.80M around June 16\u201317 but bounces back quickly.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 108
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_109",
+    "modality": "text",
+    "content": "Team B (Mustafiz)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 109
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_110",
+    "modality": "text",
+    "content": "Consistent Top-Tier: Often the second-largest contributor, commonly in the 2.3\u20133.1M range.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 110
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_111",
+    "modality": "text",
+    "content": "Major Influence: Days when Team B crosses ~3M (June 3, June 10) coincide with overall revenue spikes.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 111
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_112",
+    "modality": "text",
+    "content": "Team C (Mehboob)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 112
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_113",
+    "modality": "text",
+    "content": "Smaller Scale: Typically 600\u2013900k daily, rarely above 900k but occasionally dips below 700k on slower days.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 113
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_114",
+    "modality": "text",
+    "content": "Stable Pattern: Changes in Team C\u2019s revenue are less dramatic yet show upturns during the big surges in early/mid-June.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 114
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_115",
+    "modality": "text",
+    "content": "Perishable (Rashed)",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 115
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_116",
+    "modality": "text",
+    "content": "2\u20133M Range: Adds a sizable third layer of revenue.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 116
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_117",
+    "modality": "text",
+    "content": "Notable Peaks: Reaches 3+ million on June 3 and ~2.82M on June 10, aligning with the overall top days.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 117
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_119",
+    "modality": "text",
+    "content": "4. Conclusions & Recommendations",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 119
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_120",
+    "modality": "text",
+    "content": "Key Revenue Drivers",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 120
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_121",
+    "modality": "text",
+    "content": "Team A and Team B exert the strongest push on daily totals, so supporting these teams\u2019 operations can yield larger shifts in total revenue.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 121
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_122",
+    "modality": "text",
+    "content": "Critical Highs and Lows",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 122
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_123",
+    "modality": "text",
+    "content": "June 3 (11.39M) and June 10 (10.88M) stand out as the top revenue days. Investigating marketing or operational events around those dates may provide insights for replicating that success.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 123
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_124",
+    "modality": "text",
+    "content": "June 22 marks the lowest total (~7.71M); it may be beneficial to determine if external factors, reduced promotions, or supply constraints contributed to that dip.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 124
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_125",
+    "modality": "text",
+    "content": "Opportunities for Growth",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 125
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_126",
+    "modality": "text",
+    "content": "Perishable (Rashed), though fairly stable, shows potential to surge alongside A/B under the right circumstances (e.g., June 3, June 10). Targeted synergy with marketing could boost these spikes further.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 126
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_127",
+    "modality": "text",
+    "content": "Team C (Mehboob), while smallest in raw figures, can still capitalize on busy market days. Strategies that tie Team C\u2019s offerings to bigger promotional events might help narrow the gap.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 127
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_128",
+    "modality": "text",
+    "content": "Future Monitoring",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 128
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_129",
+    "modality": "text",
+    "content": "Day-by-day tracking of operational changes, seasonal factors, and promotions can pinpoint why certain days see leaps or drops in multiple teams\u2019 revenues simultaneously.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 129
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_130",
+    "modality": "text",
+    "content": "Continue weekly or even daily reviews of each team\u2019s numbers to detect oncoming dips earlier and sustain momentum after high-performing days.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 130
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_par_131",
+    "modality": "text",
+    "content": "By closely analyzing each team's day-to-day progress and the combined effect on Total Revenue, the organization can tailor its strategies\u2014promotional timing, resource allocation, and supply chain adjustments\u2014to sustain the strongest performance periods and mitigate dips in sales.",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "paragraph_index": 131
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row0",
+    "modality": "text",
+    "content": "Date, Team A - Faria Revenue, Team B - Mustafiz Revenue, Team C - Mehboob Revenue, Perishable - Rashed Revenue, Total Revenue",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 0
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row1",
+    "modality": "text",
+    "content": "2022-06-27, 2824183, 2353584.96, 739525, 2247167, 8180827.96",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 1
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row2",
+    "modality": "text",
+    "content": "2022-06-26, 3032459, 2524794.88, 824715, 2275985, 8676021.88",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 2
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row3",
+    "modality": "text",
+    "content": "2022-06-25, 3127677, 2923920, 725604, 2269718, 9062970",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 3
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row4",
+    "modality": "text",
+    "content": "2022-06-24, 3095953.35, 2885204.92, 925000, 2310232, 9231685.27",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 4
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row5",
+    "modality": "text",
+    "content": "2022-06-23, 2805658, 2360663.92, 704180, 2051977, 7940241.92",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 5
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row6",
+    "modality": "text",
+    "content": "2022-06-22, 2672947, 2282011, 742979, 2003731.65, 7717290.65",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 6
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row7",
+    "modality": "text",
+    "content": "2022-06-21, 2765236, 2408063.96, 762909, 2023240, 7971177.96",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 7
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row8",
+    "modality": "text",
+    "content": "2022-06-20, 3073901, 2362439, 783940, 2049952, 8288947",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 8
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row9",
+    "modality": "text",
+    "content": "2022-06-19, 3238215.8, 2378980, 793076, 2142632, 8569297.8",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 9
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row10",
+    "modality": "text",
+    "content": "2022-06-18, 3515289, 2642607, 882718, 2549924, 9609983",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 10
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row11",
+    "modality": "text",
+    "content": "2022-06-17, 3203946, 2274204, 734766, 2566372, 8798653",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 11
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row12",
+    "modality": "text",
+    "content": "2022-06-16, 2803869, 2126117, 684121, 2166048, 7803490",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 12
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row13",
+    "modality": "text",
+    "content": "2022-06-15, 3025194, 2200996.7, 698160, 2046541, 7985248.7",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 13
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row14",
+    "modality": "text",
+    "content": "2022-06-14, 2974863.32, 2256856.6, 743850, 2154380, 8145575.92",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 14
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row15",
+    "modality": "text",
+    "content": "2022-06-13, 2876342.2, 2352949.56, 763432, 2037751, 8052511.76",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 15
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row16",
+    "modality": "text",
+    "content": "2022-06-12, 3058940.2, 2271315, 667834, 2097361, 8116871.2",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 16
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row17",
+    "modality": "text",
+    "content": "2022-06-11, 3464523, 2775364.5, 824792, 2320351, 9417174.5",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 17
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row18",
+    "modality": "text",
+    "content": "2022-06-10, 4050724.3, 3133379.95, 820718, 2816950, 10880191.25",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 18
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row19",
+    "modality": "text",
+    "content": "2022-06-09, 2988744.2, 2357844.36, 674906, 2483525, 8612977.56",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 19
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row20",
+    "modality": "text",
+    "content": "2022-06-08, 3049427, 2490214, 738082, 2269579, 8761161",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 20
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row21",
+    "modality": "text",
+    "content": "2022-06-07, 3254886.12, 2606319.48, 835533, 2369164, 9370220.6",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 21
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row22",
+    "modality": "text",
+    "content": "2022-06-06, 3324762.12, 2748126.48, 704586, 2366705, 9471683.6",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 22
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row23",
+    "modality": "text",
+    "content": "2022-06-05, 2876126, 2466869.9, 707461, 2069999, 8405244.9",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 23
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row24",
+    "modality": "text",
+    "content": "2022-06-04, 3247959, 2976892, 871918, 2414414, 9752154",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 24
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row25",
+    "modality": "text",
+    "content": "2022-06-03, 3790148, 3454415.15, 916717, 3087923, 11391354.15",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 25
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row26",
+    "modality": "text",
+    "content": "2022-06-02, 3478459, 2772195, 804861, 2470441, 9665429",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 26
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row27",
+    "modality": "text",
+    "content": "2022-06-01, 3612577, 2821038, 831005, 2387753, 9772302",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 27
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row28",
+    "modality": "text",
+    "content": "2022-05-31, 3208886, 2528297, 778364, 2124500, 8752200",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 28
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row29",
+    "modality": "text",
+    "content": "2022-05-30, 2971818.6, 2382577, 786536, 2224389, 8481818.6",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 29
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row30",
+    "modality": "text",
+    "content": "2022-05-29, 2926000, 2422097.9, 742452, 2149812, 8381459.9",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 30
+    }
+  },
+  {
+    "chunk_id": "Sample text table and chat.docx_table0_row31",
+    "modality": "text",
+    "content": "2022-05-28, 3114401, 2692644.2, 761347, 2298270, 8993688.2",
+    "metadata": {
+      "file_name": "Sample text table and chat.docx",
+      "table_index": 0,
+      "row_index": 31
+    }
+  }
+]
